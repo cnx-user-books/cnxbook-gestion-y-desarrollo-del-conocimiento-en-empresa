@@ -1,0 +1,44 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Introducción</title>
+  <metadata>
+  <md:content-id>m19640</md:content-id><md:title>Introducción</md:title>
+  <md:abstract>Todas las personas nos encontramos alguna vez en alguna situación que requiera diriginos a los demás, transmitirles de forma clara, concisa y fiable la idea de nuestro diálogo. Para ello es conveniente aprender a realizar una buena presentación o ponencia.</md:abstract>
+  <md:uuid>17475901-9e98-48a8-866f-292e8b39f77c</md:uuid>
+</metadata>
+
+<content>
+    <section id="eip-138">
+<title>DEFINICIÓN DE CONOCIMIENTO</title>
+<para id="eip-353">¿Qué es la Gestión del Conocimiento?</para>
+<para id="def">Conjunto de procesos, estructuras organizativas, aplicaaciones y tecnologías mediante las cuales una empresa consciente y comprensivamente, recolect, ordena, analiza, comparte y difunde su conocimiento entre sus empleados para aprovecharlo en beneficio de su organización.</para></section>
+    <section id="eip-26">
+<title>TIPOS DE CONOCIMIENTO</title>
+<para id="eip-716">La gestión del conocimiento es necesaria para emplear toda la sabiduría y destrezas colectivas e individuales, para diferenciarse y conseguir la excelencia.</para>
+<para id="spencer">Spencer propone esta matriz en la se muestran cómo el conocimiento individual y social se relacionan en la organización. Ambos son jerarquizables, dado que a mayor conocimiento en la organización, más fácil es realizar distinciones precisas.</para>
+</section><table id="eip-835" summary="Matriz de tipos de contenidos (Spencer: Tabla 3.5; p86)">
+<tgroup cols="3"><tbody>
+  <row>
+    <entry/>
+    <entry>Individual</entry>
+    <entry>Social</entry>
+  </row>
+  <row>
+    <entry>Explícito</entry>
+    <entry>Consciente</entry>
+    <entry>Objetivo</entry>
+  </row>
+  <row>
+    <entry>Implícito</entry>
+    <entry>Automático</entry>
+    <entry>Colectivo</entry>
+  </row>
+</tbody>
+
+
+</tgroup><caption><cite>Spencer: Tabla 3.5; p86</cite></caption>
+</table><section id="eip-754"><title>DIMENSIÓN DEL CONOCIMIENTO</title><para id="eip-80">Para que el conocimiento se convierta en parte intrínseca de un recurso intangible individual permanente se hace necesario que unas rutinas organizativas sean parte del proceso de aprendizaje, así se convierten en una dimensión sistemática.</para><para id="eip-320"><media id="prusak" display="block" alt="Bueno, Davenport y Prusak">
+  <image mime-type="image/jpeg" src="../../media/prusak.bmp"/>
+</media>
+</para></section>
+  </content>
+</document>
